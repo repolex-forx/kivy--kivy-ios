@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kivy/kivy-ios/commit/fd363d49eddb5ac06766348738bd89c7d46007f8",
       "git:hexsha": "fd363d49eddb5ac06766348738bd89c7d46007f8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/kivy/kivy-ios/commit/aa1fced45a3ab130bd96d9205f0a000a8c6b2fbb",
