@@ -1,0 +1,11 @@
+{
+  "org": "kivy",
+  "repo": "kivy-ios",
+  "versions": [
+    {
+      "commit": "fd363d49eddb5ac06766348738bd89c7d46007f8",
+      "tag": "",
+      "parsed_at": "2026-11-07T11:53:06.808309+00:00"
+    }
+  ]
+}
